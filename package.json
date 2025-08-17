@@ -1,8 +1,8 @@
 {
-  "name": "Abhi",
+  "name": "Priyansh",
   "version": "10.1.1",
   "description": "A simple Facebook Messenger Bot made by Abhii inside.",
-  "main": "Abhi.js",
+  "main": "Priyansh.js",
   "engines": {
       "node": "20.x",
       "npm": "10.0.0"
